@@ -1,4 +1,7 @@
 # Byte-compiled / optimized / DLL files
+goteamup_new.csv
+mindbodyonline_new.csv
+
 __pycache__/
 *.py[cod]
 *$py.class
